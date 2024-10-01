@@ -1,8 +1,8 @@
 import program;
 
-function(myFunction(x)
+def myFunction()
     return "Hello World!"
 )
 
 def test_program():
-    assert program.myFunction(x) == "Hello World!"
+    assert program.myFunction() == "Hello World!"
