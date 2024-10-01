@@ -1,7 +1,7 @@
 import program;
 
 function(myFunction(x)
-return "Hello World!"
+    return "Hello World!"
 )
 
 def test_program():
